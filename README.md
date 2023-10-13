@@ -18,5 +18,8 @@ V 1.06
 
 V 1.07
 - Added Variable Title And Copyright
+- Added Login and Logout Function
 - Added Auto Delete Cookies after Logout
 - Added Auto Nav if non-login activity
+- Added Show Current Panel host,username,password and database name
+- Added login username and password
