@@ -25,3 +25,4 @@ V 1.07
 - Added login username and password
 - Added RAT Maker, converter to exe and downloader in .zip file
 - Added Chrome Stealer
+- Added make site Visible or Hide
