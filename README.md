@@ -17,3 +17,4 @@ V 1.06
 - Upload RAT Func
 
 V 1.07
+- Added Variable Title And Copyright
