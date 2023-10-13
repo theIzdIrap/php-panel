@@ -18,3 +18,5 @@ V 1.06
 
 V 1.07
 - Added Variable Title And Copyright
+- Added Auto Delete Cookies after Logout
+- Added Auto Nav if non-login activity
