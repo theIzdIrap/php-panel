@@ -23,3 +23,4 @@ V 1.07
 - Added Auto Nav if non-login activity
 - Added Show Current Panel host,username,password and database name
 - Added login username and password
+- Added RAT Maker, converter to exe and downloader in .zip file
