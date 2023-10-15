@@ -1,6 +1,6 @@
 # php-panel
 
-
+# V 1.06 Photo
 ![photo_2023-09-27_16-10-24](https://github.com/theIzdIrap/php-panel/assets/62066592/0924c10d-5798-46da-92b1-bd7dc9937ea7)
 
 V 1.06
@@ -15,6 +15,9 @@ V 1.06
 - Show How Many Victim Site have
 - Easy İnstall page (Automates Everything)
 - Upload RAT Func
+
+V 1.07 Photo
+![dasdas](https://github.com/theIzdIrap/php-panel/assets/62066592/ab44e0cc-dfe6-42bb-95f5-b01aecd227ef)
 
 V 1.07
 - Added Variable Title And Copyright
