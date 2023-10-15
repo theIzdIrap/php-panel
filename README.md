@@ -17,7 +17,8 @@ V 1.06
 - Upload RAT Func
 
 V 1.07 Photo
-![dasdas](https://github.com/theIzdIrap/php-panel/assets/62066592/ab44e0cc-dfe6-42bb-95f5-b01aecd227ef)
+![dasdas](https://github.com/theIzdIrap/php-panel/assets/62066592/2b0da84e-a54d-46e0-ae00-d71696ac4cad)
+
 
 V 1.07
 - Added Variable Title And Copyright
